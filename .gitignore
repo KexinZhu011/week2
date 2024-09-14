@@ -1,0 +1,6 @@
+# Ignore system files and other nested git repositories
+.DS_Store
+.nvm/
+Library/
+.Trash/
+*.git
